@@ -1,0 +1,15 @@
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.AssemblyReference.cache
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.g.cs
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\App.g.cs
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.cache
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.lref
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.baml
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.g.resources
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.Properties.Resources.resources
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.GenerateResource.cache
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+C:\Users\BabbyPai\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
